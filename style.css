@@ -308,7 +308,7 @@ hr {
   }
 
   .image__left img {
-    width: 350px;
+    width: 335px;
   }
 
   .text__left h1 {
@@ -331,5 +331,9 @@ hr {
 
   .text__part p {
     font-size: 15px;
+  }
+
+  .paragraph-3 {
+    width: 80%;
   }
 }
