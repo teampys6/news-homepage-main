@@ -32,6 +32,10 @@ hr {
   margin: 40px auto;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .header__content img {
   width: 4.5em;
   height: auto;
@@ -308,7 +312,7 @@ hr {
   }
 
   .image__left img {
-    width: 300px;
+    width: 340px;
   }
 
   .text__left h1 {
